@@ -1,8 +1,8 @@
 # restaurant review app
 
 ## introduction
-this is my restaurant review app project for the udacity nanodegree scholarship:
- The provided code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all.So first off all i changed some css and added some media queries to make the website responsive and for a better experience using multiple devices, Next i made sure that the Accessibility meets the Aria specification using what i've learned in the course and the screen reader, last but not least i used a service worker to cache responses to requests for site assets so that the Visited pages are rendered when there is no network acces .
+For the Restaurant Reviews projects, I have converted a static webpage to a mobile-ready web application. In Stage one, The static design that lacks accessibility has been converted into the responsive design on different sized displays and accessible for screen reader use. I have added a service worker to begin the process of creating a seamless offline experience for the users.
+
 
 ### udacity provided steps?
 
